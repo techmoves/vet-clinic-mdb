@@ -6,5 +6,7 @@ CREATE TABLE animals (
     date_of_birth: DATE
     escape_attempts: int,
     neutered: boolean,
-    weight_kg: decimal(10,2)
+    weight_kg: decimal(10,2),
 );
+ALTER TABLE animals
+ADD COLUMN species VARCHAR(50);

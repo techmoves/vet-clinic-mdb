@@ -82,11 +82,11 @@ SELECT AVG(weight_kg) AS average_weight FROM animals;
 SELECT neutered, SUM(escape_attempts) AS escape_count FROM animals GROUP BY neutered
 
 -- What is the minimum and maximum weight of each type of animal?
-SELECT neutered,
+SELECT species,
        MIN(weight_kg) AS minimum_weight,
        MAX(weight_kg) AS maximum_weight
 FROM animals
-GROUP BY neutered;
+GROUP BY species;
 
 -- What is the average number of escape attempts per animal type of those born between 1990 and 2000?
 SELECT species,

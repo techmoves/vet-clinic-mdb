@@ -96,18 +96,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[create animals table.]**
-- **[query and update animals table.]**
-- **[query multiple tables.]**
-- **[add "join table" for visits.]**
-- **[database performance audit.]**
-- **[add database schema diagram.]**
 
 <!-- GETTING STARTED -->
 

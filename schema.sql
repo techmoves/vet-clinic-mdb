@@ -4,8 +4,16 @@ CREATE TABLE animals (
     id int PRIMARY KEY NOT NULL,
     name varchar(255),
     date_of_birth: DATE
-    escape_attempts: int,
-    neutered: boolean,
+    escape_attempts: int, N 
+
+    
+
+ Add Index  Add Column 
+    neutered: boolean, N 
+
+    
+
+ Add Index  Add Column 
     weight_kg: decimal(10,2),
 );
 ALTER TABLE animals

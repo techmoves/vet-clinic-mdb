@@ -66,6 +66,8 @@ After you're finished please remove all the comments and instructions!
 # 📖 VET CLINIC <a name="about-project"></a>
 
 > THis is relational database to create the initial data structure for a vet clinic.
+###  database schema diagram
+![Alt text](drawSQL-vet-clinic-export-2023-07-25.png)
 
 **[VET CLINIC]** 
 
